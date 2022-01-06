@@ -9,7 +9,7 @@ const config = {
   title: 'Shueny',
   tagline: 'Dinosaurs are cool',
   url: 'https://shueny.github.io',
-  baseUrl: '/shueny.github.io/', // (GitHub Project 名稱)
+  baseUrl: '/', // (GitHub Project 名稱)
   projectName: 'shueny.github.io', // (GitHub Project 名稱)
   organizationName: 'shueny', // (GitHub 的用戶名稱)
   onBrokenLinks: 'throw',

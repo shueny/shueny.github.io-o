@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkshueny_github_io=self.webpackChunkshueny_github_io||[]).push([[612],{9655:function(u){u.exports=JSON.parse('{"allTagsPath":"/shueny.github.io/blog/tags","slug":"/shueny.github.io/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/shueny.github.io/blog/tags/docusaurus"}')}}]);
